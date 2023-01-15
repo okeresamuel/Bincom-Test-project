@@ -1,0 +1,29 @@
+.header__Text{
+    display: flex;
+    justify-content: space-around;
+    width:100%;
+}
+
+h4{
+ width:100%;
+ text-align: center;
+}
+
+div{
+ width:97vw;
+ border: 0.1px solid rgba(8, 10, 139, 0.767);
+}
+.Rows{
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+}
+.header{
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+
+button{
+    margin:15px;
+}
